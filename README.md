@@ -9,7 +9,8 @@ Người mới nên nhìn tổng quát trước sau đó hãy đi sâu từng c�
 
 Mình muốn kiểm thử API thì thường phải có document API Develop viết
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d4e0dad7-651f-4f69-b591-c458b520a530)
+
 
 
 
